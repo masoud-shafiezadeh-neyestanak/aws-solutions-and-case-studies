@@ -1,3 +1,3 @@
-# AWS Architecture Case Studies
+# AWS Technical Explanations
 
-Cloud architecture scenarios exploring design decisions, AWS service selection, security, reliability, and cost considerations.
+Research-based explanations of AWS services, features, architectural concepts, and technical behaviors.
