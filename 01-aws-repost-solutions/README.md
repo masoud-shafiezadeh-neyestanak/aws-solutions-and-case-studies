@@ -19,6 +19,10 @@ The purpose is not to reproduce community threads. It is to document what I lear
 
 A dated summary of re:Post participation is available in [`participation-snapshot-2026-11-19.md`](./participation-snapshot-2026-11-19.md). These figures are community-platform outcomes, not official AWS endorsements.
 
+## Selected Research Notes
+
+- [Case 001 — EC2 Reward Activity Not Recognized After Instance Launch](./case-001-ec2-reward-activity-not-recognized.md) — Investigates the difference between an EC2 resource launch, Explore AWS activity completion, and credit posting. The public evidence does not establish the root cause.
+
 ## Suggested File Naming
 
 Use one Markdown file per useful research note:
