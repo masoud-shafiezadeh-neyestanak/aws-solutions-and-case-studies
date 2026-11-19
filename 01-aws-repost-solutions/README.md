@@ -15,6 +15,10 @@ The purpose is not to reproduce community threads. It is to document what I lear
 - Remove account IDs, personal information, private workload details, credentials, and other sensitive data.
 - When discussing an answer you authored, preserve the substance but feel free to improve the explanation and add later findings.
 
+## Participation Snapshot
+
+A dated summary of re:Post participation is available in [`participation-snapshot-2026-11-19.md`](./participation-snapshot-2026-11-19.md). These figures are community-platform outcomes, not official AWS endorsements.
+
 ## Suggested File Naming
 
 Use one Markdown file per useful research note:
