@@ -95,7 +95,7 @@ Avoid launching additional instances solely to try to trigger the reward. The ac
 - [x] Answer posted in the linked re:Post discussion
 - [x] Answer accepted by the question author
 - [x] Answer marked Expert Approved on re:Post
-- [x] Final resolution confirmed in the supplied discussion details
+- [ ] Final resolution confirmed in the supplied discussion details
 
 **Resolution status:** The answer was accepted and marked Expert Approved, but the information available for this research note does not confirm whether the USD 20 credit was ultimately awarded or what caused the activity to remain in progress.
 
