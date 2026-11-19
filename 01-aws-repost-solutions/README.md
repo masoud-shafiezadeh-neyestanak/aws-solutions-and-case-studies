@@ -53,3 +53,13 @@ Start from [`_template.md`](./_template.md) when creating a new research note.
 ---
 
 These notes are independent learning and research materials. They are not official AWS documentation or AWS Support guidance.
+
+## Policy and Licensing References
+
+- [AWS re:Post Terms of Use](https://repost.aws/terms)
+- [AWS re:Post Community Guidelines](https://repost.aws/guidelines)
+- [AWS Site Terms](https://aws.amazon.com/terms/)
+
+AWS documentation hosted on `docs.aws.amazon.com` is identified in the AWS Site Terms as licensed under **CC-BY-SA-4.0**; code in that documentation is identified as **MIT-0**. When reusing any material rather than writing an independent summary, review the applicable license and provide the required attribution.
+
+For this repository, the preferred approach is to explain technical findings in original wording and link to the relevant source rather than reproduce source material.
