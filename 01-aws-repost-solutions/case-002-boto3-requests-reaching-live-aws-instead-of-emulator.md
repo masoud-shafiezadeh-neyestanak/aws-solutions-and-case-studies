@@ -6,7 +6,7 @@
 
 - **Platform:** AWS re:Post
 - **Discussion title:** AWS Emulator connected to my AWS account!
-- **Discussion URL:** Not included in the supplied discussion details; add the exact public URL when available.
+- **Discussion URL:** [AWS Emulator connected to my AWS account!](https://repost.aws/questions/QUE3hHpAqESUmk-o0XKEye6g/aws-emulator-connected-to-my-aws-account#ANc6d8NmK9RxysTPUl7TpEDQ)
 - **Date reviewed:** 2026-11-20
 - **My participation:** Answer published in the discussion
 - **Thread outcome:** Answer accepted by the question author and marked Expert Approved on re:Post
