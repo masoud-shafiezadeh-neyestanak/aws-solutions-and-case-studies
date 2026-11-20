@@ -5,7 +5,7 @@
 ## 1. Source Discussion
 
 - **Platform:** AWS re:Post
-- **Discussion:** [EC2 reward activity remains in progress after an instance launch](https://www.repost.aws/questions/QUYAdrSqeRSA-rqs4GeY4SXA/aws-new-reward-credit-not-applied-launch-an-instance-using-ec-2-still-showing-in-progress)
+- **Discussion URL:** Not yet provided; add the exact public re:Post link when available.
 - **Date reviewed:** 2026-11-19
 - **My participation:** Answer published in the discussion
 - **Thread outcome:** Answer accepted by the question author and marked Expert Approved on re:Post
