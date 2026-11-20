@@ -5,7 +5,7 @@
 ## 1. Source Discussion
 
 - **Platform:** AWS re:Post
-- **Discussion URL:** Not yet provided; add the exact public re:Post link when available.
+- **Discussion URL:** [AWS (new) Reward Credit Not Applied — EC2 activity remains in progress](https://repost.aws/questions/QUYAdrSqeRSA-rqs4GeY4SXA/aws-new-reward-credit-not-applied-launch-an-instance-using-ec-2-still-showing-in-progress#ANT69OOXrcRnCcKUAxAN280Q)
 - **Date reviewed:** 2026-11-19
 - **My participation:** Answer published in the discussion
 - **Thread outcome:** Answer accepted by the question author and marked Expert Approved on re:Post
