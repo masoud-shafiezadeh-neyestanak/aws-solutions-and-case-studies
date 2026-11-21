@@ -23,6 +23,7 @@ A dated summary of re:Post participation is available in [`participation-snapsho
 
 - [Case 001 — EC2 Reward Activity Not Recognized After Instance Launch](./case-001-ec2-reward-activity-not-recognized.md) — Investigates the difference between an EC2 resource launch, Explore AWS activity completion, and credit posting. The public evidence does not establish the root cause.
 - [Case 002 — Boto3 Requests Reaching Live AWS Instead of AWS Emulator](./case-002-boto3-requests-reaching-live-aws-instead-of-emulator.md) — Investigates endpoint selection, emulator credentials, and STS identity verification when SDK calls unexpectedly reach a live account.
+- [Case 003 — Research Guest SIP Flag on Apple Silicon EC2 Mac](./case-003-research-guests-sip-flag-ec2-mac.md) — Reviews the documented EC2 Mac SIP API options and the supportability boundary for a flag not exposed by the API.
 
 ## Suggested File Naming
 
