@@ -5,7 +5,7 @@
 ## 1. Source Discussion
 
 - **Platform:** AWS re:Post
-- **Discussion:** [Enabling Research Guests on an Apple Silicon EC2 Mac](https://www.repost.aws/questions/QUq3txFCKOQ0ad5M4jZQh6uA/enabling-research-guests-on-an-apple-silicon-ec2-mac)
+- **Discussion:** [Enabling Research Guests on an Apple Silicon EC2 Mac](https://repost.aws/questions/QUq3txFCKOQ0ad5M4jZQh6uA/enabling-research-guests-on-an-apple-silicon-ec2-mac#ANm1F-BtTrTB20eQmOoaifpg)
 - **Date reviewed:** 2026-11-21
 - **My participation:** Answer published in the discussion
 - **Thread outcome:** Answer accepted by the question author and marked Expert Approved on re:Post
